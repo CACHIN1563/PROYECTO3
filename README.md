@@ -22,9 +22,8 @@ Aplicación Java con interfaz gráfica para gestión de vehículos, implementand
 - Soporte para iconos personalizados en diálogos
 
 ## Requisitos técnicos
-- **JDK 8+** (Java Development Kit)
-- IDE compatible (IntelliJ, Eclipse, NetBeans)
-- Memoria RAM: mínimo 2GB recomendado
+- **JDK 8+** 
+- IDE compatible (NetBeans)
 
 ## Instalación
 1. Clonar repositorio:
