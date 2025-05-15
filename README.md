@@ -13,7 +13,7 @@ Este proyecto fue desarrollado en **Java** utilizando la biblioteca **Swing** pa
   - Propietario (nombre y apellido)
     
 ## Descripción
-Aplicación Java con interfaz gráfica para gestión de vehículos, implementando menús interactivos mediante JOptionPane. El sistema permite realizar operaciones CRUD básicas sobre registros de vehículos.
+Aplicación Java con interfaz gráfica para gestión de vehículos, implementando menús interactivos mediante JOptionPane. 
 
 ## Características principales
 - Interfaz gráfica intuitiva con JOptionPane
