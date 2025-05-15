@@ -11,4 +11,22 @@ Este proyecto fue desarrollado en **Java** utilizando la biblioteca **Swing** pa
   - Línea
   - Modelo (año, 4 dígitos)
   - Propietario (nombre y apellido)
+    
+## Descripción
+Aplicación Java con interfaz gráfica para gestión de vehículos, implementando menús interactivos mediante JOptionPane. El sistema permite realizar operaciones CRUD básicas sobre registros de vehículos.
 
+## Características principales
+- Interfaz gráfica intuitiva con JOptionPane
+- Visualización de datos en JTextArea con JScrollPane
+- Texto en mayúsculas para mejor legibilidad
+- Soporte para iconos personalizados en diálogos
+
+## Requisitos técnicos
+- **JDK 8+** (Java Development Kit)
+- IDE compatible (IntelliJ, Eclipse, NetBeans)
+- Memoria RAM: mínimo 2GB recomendado
+
+## Instalación
+1. Clonar repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/proyecto-vehiculos.git
