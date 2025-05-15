@@ -11,7 +11,29 @@ Este proyecto fue desarrollado en **Java** utilizando la biblioteca **Swing** pa
   - Línea
   - Modelo (año, 4 dígitos)
   - Propietario (nombre y apellido)
-    
+ 
+   - **Buscar vehículos** por:
+  - Placa
+  - Color
+  - Línea
+  - Modelo
+  - Propietario
+
+- **Eliminar vehículo** por placa.
+
+- **Mostrar todos los vehículos** (protegido con clave `0000`).
+
+---
+
+## 🧱 Estructura de Clases
+
+- `AppVehiculos.java`: clase principal con el menú principal.
+- `Vehiculo.java`: clase que representa un vehículo.
+- `Nodo.java`: clase para los nodos de la lista enlazada.
+- `ListaVehiculos.java`: clase que implementa la lista enlazada con métodos para insertar, buscar, eliminar y mostrar.
+
+---
+
 ## Descripción
 Aplicación Java con interfaz gráfica para gestión de vehículos, implementando menús interactivos mediante JOptionPane. 
 
