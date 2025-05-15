@@ -12,7 +12,7 @@ Este proyecto fue desarrollado en **Java** utilizando la biblioteca **Swing** pa
   - Modelo (año, 4 dígitos)
   - Propietario (nombre y apellido)
  
-   - **Buscar vehículos** por:
+- **Buscar vehículos** por:
   - Placa
   - Color
   - Línea
