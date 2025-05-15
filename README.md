@@ -25,7 +25,4 @@ Aplicación Java con interfaz gráfica para gestión de vehículos, implementand
 - **JDK 8+** 
 - IDE compatible (NetBeans)
 
-## Instalación
-1. Clonar repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/proyecto-vehiculos.git
+
