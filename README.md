@@ -25,7 +25,7 @@ Este proyecto fue desarrollado en **Java** utilizando la biblioteca **Swing** pa
 
 ---
 
-## 🧱 Estructura de Clases
+## Estructura de Clases
 
 - `AppVehiculos.java`: clase principal con el menú principal.
 - `Vehiculo.java`: clase que representa un vehículo.
