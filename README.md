@@ -47,4 +47,5 @@ Aplicación Java con interfaz gráfica para gestión de vehículos, implementand
 - **JDK 8+** 
 - IDE compatible (NetBeans)
 
-
+- 📘 [Manual Técnico](MANUAL_TECNICO.md): Información sobre la estructura del sistema, lógica interna y requisitos técnicos.
+- 🧾 [Manual de Usuario](MANUAL_USUARIO.md): Instrucciones para la ejecución y uso del sistema.
