@@ -15,7 +15,7 @@ El sistema está compuesto por las siguientes clases principales:
 
 ---
 
-## VALIDACIONES APLICADAS
+## VALIDACIONES
 
 Para garantizar la integridad de los datos ingresados, se aplican las siguientes expresiones regulares:
 
@@ -37,7 +37,7 @@ El sistema opera utilizando una lista enlazada simple, implementando dinámicame
 - **BUSCAR VEHÍCULO**: Permite filtrar vehículos según cualquier campo (placa, color, línea, modelo, propietario).
 - **ELIMINAR VEHÍCULO**: Solicita la placa del vehículo a eliminar.
 - **MOSTRAR TODOS**: Requiere la clave `'0000'` para mostrar todos los registros.
-- **SALIR**: Cierra el programa.
+
 
 ---
 
@@ -48,7 +48,3 @@ El sistema opera utilizando una lista enlazada simple, implementando dinámicame
 - No requiere conexión a internet  
 - Sin persistencia (no guarda en archivo o base de datos)
 
-## Manuales disponibles
-
-- [Manual Técnico](MANUAL_TECNICO.md): Información sobre la estructura del sistema, lógica interna y requisitos técnicos.
-- [Manual de Usuario](MANUAL_USUARIO.md): Instrucciones para la ejecución y uso del sistema.
