@@ -84,8 +84,8 @@ El sistema está pensado para ser extendido fácilmente. A pesar de ser una apli
 ---
 
 **Desarrollado por:**
-\[RUBEN GARCÍA Y CARLOS CACHIN]
+\RUBEN GARCÍA Y CARLOS CACHIN
 
 **Curso:** PROGRAMACION 3
-**Universidad:** \[MARIANO GALVEZ DE GUATEMALA]
+**Universidad:** \MARIANO GALVEZ DE GUATEMALA
 **Año:** 2025
